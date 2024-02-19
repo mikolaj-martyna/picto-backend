@@ -17,13 +17,13 @@ The experiment aimed to measure cognitive capacity for creating and learning an 
 ## Suggested interface
 
 #### 📢 Speaker
-![Speaker](https://via.placeholder.com/468x300?text=App+Screenshot+Here)  
+![Speaker](https://github.com/mikolaj-martyna/picto-backend/assets/149105135/542d9690-8f88-4d64-af37-f65a6974e6e0)  
 
 #### 👂 Listener
-![Listener](https://via.placeholder.com/468x300?text=App+Screenshot+Here)  
+![Listener](https://github.com/mikolaj-martyna/picto-backend/assets/149105135/30d6dbe8-8f3f-4c1a-9262-094401d6d030)
 
 #### ⏳ Waiting screen
-![Waiting Screen](https://via.placeholder.com/468x300?text=App+Screenshot+Here)  
+![Waiting screen](https://github.com/mikolaj-martyna/picto-backend/assets/149105135/1533c172-9032-456d-8261-9e45ef93caa0)
 
 
 ## Features
