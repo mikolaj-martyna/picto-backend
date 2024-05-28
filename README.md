@@ -82,6 +82,8 @@ As of now, in certain cases, events sent by the SSE are blocked by adblockers (e
 #### 2. Data validation
 
 Since Picto started as an internal project for a specific frontend, there aren't as many data validation mechanisms as needed to make it work on its own. We are aware of this and are actively working on improving the project.
+
+
 ## Related
 
 **Frontend:** [github.com/skni-umcs/picto-front](https://github.com/skni-umcs/picto-front)
@@ -93,7 +95,7 @@ Since Picto started as an internal project for a specific frontend, there aren't
 
 - Implement Data Transfer Object design pattern
 
-- Improve hardening, in particular add data validation for all imputs
+- Improve hardening, in particular add data validation for all inputs
 
-- Improve summary generation (don't include generations, which are not full, etc.)
+- Improve summary generation (don't include generations, which have not been completed by all participants, etc.)
 
